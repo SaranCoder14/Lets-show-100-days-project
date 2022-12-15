@@ -62,14 +62,13 @@ header img{
 }
 .payment h2{
     font-family: sans-serif;
-    margin-left: 50px;
+    margin-left: 30px;
     font-size: 25px;
-    position: relative;
-    top:20px; 
+    margin-bottom: 20px;
 }
 .credit{
     background-color:darkgray;
-    width: 270px;
+    width: 300px;
     margin-left: 6%;
     margin-top: 5%;
     padding: 4%;
@@ -88,7 +87,7 @@ header img{
     margin-top: 20%;
 }
 .cvv .input1{
-    width:25px;
+    width:40px;
     height: 10px;
     margin-right: 10px;
     margin-top: 10%;
@@ -97,21 +96,21 @@ header img{
 }
 .cvv p{
  position: relative;
-left:25px; 
+ left:25px; 
     
 }
 .cvv .input2{
     width:50px;
     height: 40px;
     margin-top: 11%;
-     position: relative;
+    position: relative;
     right:20px;  
     
 }
 .credit button{
     padding: 10px;
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 10px;
     width:250px;
     background-color: #edd605;
     border-color: #edd605;
@@ -138,14 +137,14 @@ left:25px;
 }
 .banks1{
     display: flex;
-    justify-content:space-evenly;
+    justify-content:space-around;
 }
 .banks1 .img1 img{
     width:150px;
 }
 .banks2{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 .banks2 .img2 img{
     width:100px;
@@ -222,7 +221,7 @@ left:25px;
 } 
 .upibank button{
     padding: 10px;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: 200px;
     height: 40px;
     width:250px;
@@ -231,8 +230,7 @@ left:25px;
     border-radius: 10px;
 }
 .cab p{
-     position: relative;
-    bottom: 120px; 
+    
     font-size: 23px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-left: 90px;
@@ -243,19 +241,20 @@ left:25px;
 }
 .main{
     display: flex;
-    justify-content:space-between;
+
 }
 .cab{
      margin-top: 30px;
 }
 .cab h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 100px;
 }
 .cab button{
     padding: 7px;
-    font-size: 20px;
+    font-size: 25px;
     width: 150px;
-    margin-left: 150px;
+    margin-left: 200px;
     background-color: #edd605;
     border-radius: 10px;
 }
@@ -265,7 +264,7 @@ left:25px;
     background-repeat: no-repeat;
     width: 600px;
     height: 100%;
-    margin-top: 100px;
+    margin-top: 10px;
     border-radius: 10px;
-    margin-right: 50px;
+
 }
