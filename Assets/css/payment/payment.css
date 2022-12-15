@@ -259,12 +259,13 @@ header img{
     border-radius: 10px;
 }
 .ticket{
-    background-image: url(../../images/logo/ticketlogo.png);
-    background-size:80%;
+    background-image: url(../../images/logo/yellowticket-.png);
+    background-size:100%;
     background-repeat: no-repeat;
     width: 600px;
     height: 100%;
-    margin-top: 10px;
+    margin-top: 5px;
     border-radius: 10px;
+    padding: 30px;
 
 }
